@@ -3,6 +3,6 @@
 # Return the value integer type.
 
 def main():
-    return int
+    return 10
 x=main()
-print(x)
+print(type(x))
